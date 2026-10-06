@@ -20,6 +20,8 @@ Discover, compare and deploy the latest AI models and agents, with reviews and p
 | Deployment Guides | Steps to deploy a model | Engineers 
 
 ## Key insights
+- <img width="1897" height="912" alt="image" src="https://github.com/user-attachments/assets/c4172df0-0160-49ae-acd9-fac94562552a" />
+
 • Developed a demo AI voice agent as a secondary upsell option, using prompt engineering in Lovable, API keys,
 and LLM orchestration with ChatGPT and ElevenLabs, and tested its integration with Google Calendar.
 • Conducted User Acceptance Testing on the AI voice agent to assess whether it achieved a success rate of
